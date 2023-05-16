@@ -1,0 +1,7 @@
+.idea
+.env
+.vscode
+.github
+.DS_Store
+db_data
+
